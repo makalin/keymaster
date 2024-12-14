@@ -1,0 +1,16 @@
+{
+    "grid_size": 8,
+    "overlay_opacity": 0.5,
+    "grid_color": "#FFFFFF",
+    "background_color": "#000000",
+    "font_size": 14,
+    "smooth_movement": true,
+    "movement_duration": 0.2,
+    "hotkeys": {
+        "show_grid": "cmd",
+        "dismiss_grid": "esc",
+        "right_click": "right cmd",
+        "middle_click": "cmd+m",
+        "start_drag": "cmd+d"
+    }
+}
