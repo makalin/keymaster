@@ -22,7 +22,7 @@ KeyMaster is a powerful keyboard-driven mouse control utility that allows you to
 pip install PyQt6 keyboard pyautogui
 
 # Clone and run
-git clone https://github.com/yourusername/keymaster.git
+git clone https://github.com/makalin/keymaster.git
 cd keymaster
 python keymaster.py
 ```
